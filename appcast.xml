@@ -4,12 +4,12 @@
     <title>Smashteroids Updates</title>
 
     <item>
-        <title>Version 1.0.0</title>
+        <title>Version 1.0.1</title>
         <description>Initial release</description>
 
         <enclosure 
             url="https://github.com/FSProjectPortfolioV/dev5-team-project-2604-orange-2604/releases/download/v1.0.0/SmashteroidsInstaller.exe"
-            version="1.0.0"
+            version="1.0.1"
             type="application/octet-stream"
         />
     </item>
