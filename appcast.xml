@@ -6,7 +6,7 @@
 
     <item>
         <title>Smashteroids 1.0.0</title>
-        <description>Test update</description>
+        <description>Initial Installer</description>
 
         <enclosure
             url="https://github.com/FSProjectPortfolioV/dev5-team-project-2604-orange-2604/releases/download/v1.0.0/SmashteroidsInstaller.exe"
